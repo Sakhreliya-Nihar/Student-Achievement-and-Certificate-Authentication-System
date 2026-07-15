@@ -1,11 +1,11 @@
-# Student-Achievement-Management-System (SAMS)
+# Student-Achievement-and-Certificate-Authentication-System 
 
 ## **INTRODUCTION**
 
-The introduction section serves as a foundation for understanding the Student Achievement Management System (SAMS) and its underlying goals and technologies. This section will provide an overview of the project, its objectives, the technologies employed in both front-end and back-end development, as well as the purpose and significance of the system.
+The introduction section serves as a foundation for understanding the Student Achievement and certificate Verification System and its underlying goals and technologies. This section will provide an overview of the project, its objectives, the technologies employed in both front-end and back-end development, as well as the purpose and significance of the system.
 
 ### **2.1 Project Overview**
-The Student Achievement Management System (SAMS) is a robust web application meticulously developed to streamline the process of recognizing and showcasing student achievements within a classroom setting. This application serves as a centralized platform for administrators, teachers, and students to interact and share educational milestones in a user-friendly and organized manner.
+The Student Achievement Management System is a robust web application meticulously developed to streamline the process of recognizing and showcasing student achievements within a classroom setting. This application serves as a centralized platform for administrators, teachers, and students to interact and share educational certificates and achivments document in a user-friendly and organized manner.
 
 **Key Features:**
 -	**Role-based Access Control:** The system incorporates distinct user roles, including admin, teacher, and student, each with tailored privileges and responsibilities, ensuring efficient management.
@@ -18,7 +18,7 @@ The primary objective of SAMS is to create a centralized platform for showcasing
 -	Enhance communication and transparency among teachers, students, and administrators.
 
 ### **2.3 Technologies Used - Front end and Back end Technologies**
-SAMS leverages a selected set of front-end and back-end technologies for optimal performance and user experience:
+it leverages a selected set of front-end and back-end technologies for optimal performance and user experience:
 
 #### **Front-end Technologies:**
 -	**HTML5, CSS3, and JavaScript:** These fundamental web technologies form the backbone of the user interface, ensuring a visually appealing and responsive design.
@@ -68,7 +68,7 @@ SAMS leverages a selected set of front-end and back-end technologies for optimal
 
 ## CONCLUSION
 
-The purpose of implementing the Student Management System is to revolutionize the management of educational accomplishments within academic institutions. By utilizing a technology stack of HTML, CSS, JavaScript, PHP, and MySQL, SAMS creates a seamless experience for administrators, teachers, and students, promoting collaboration and a culture of achievement.
+The purpose of implementing the Student Achievement and Certificate Authentication System is to revolutionize the management of educational accomplishments within academic institutions. By utilizing a technology stack of HTML, CSS, JavaScript, PHP, and MySQL, SAMS creates a seamless experience for administrators, teachers, and students, promoting collaboration and a culture of achievement.
 
 
 
